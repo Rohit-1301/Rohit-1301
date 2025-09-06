@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>An AI-based mock interview system for students that simulates real interview scenarios to help them practice and gain confidence. The system leverages intelligent scheduling, resume analysis, and AI-generated questions tailored to specific job roles.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Projects related to AI in education, full-stack web development, or anything that improves student learning experiences — especially tools that bridge the gap between academics and real-world readiness.<br><br>🤝 I’m looking for help with<br>Enhancing AI integration for personalized interview feedback and improving backend development with Django. Also open to feedback on making the mock interview system more realistic and scalable.<br><br>🌱 I’m currently learning<br>Django to strengthen my backend development skills and connect it with frontend systems. I’m also diving deeper into AI integration techniques to make my projects smarter and more user-centric.
+🔭 I’m currently working on <br>
+Building AI-powered and full-stack applications, such as ParenthoodAI (a Generative AI platform supporting parents of children with ADHD/autism) and an Event Management System developed during the L&T Full Stack Bootcamp. My focus is on combining LangChain, RAG systems, Neo4j, and Qdrant with scalable backends using Django and Node.js.
+
+🧑‍🤝‍🧑 I’m looking to collaborate on <br>
+Projects involving Generative AI, full-stack development, or AI-driven tools that enhance safety, education, and real-world problem solving. I’m especially excited to collaborate on ideas that integrate AI with scalable web architectures.
+
+🤝 I’m looking for help with <br>
+Optimizing cloud deployments (AWS/GCP/OCI), improving MLOps pipelines, and scaling backend systems for real-world production use cases. I also welcome feedback on making my AI projects more user-friendly and enterprise-ready.
+
+🌱 I’m currently learning <br>
+
+Advanced backend engineering with Django & Node.js.
+
+Cloud AI/ML platforms (AWS, GCP, OCI) to deploy enterprise-grade solutions.
+
+System design and DevOps practices to handle scalability, reliability, and production readiness.
 
 
 ## 🌐 Socials:
